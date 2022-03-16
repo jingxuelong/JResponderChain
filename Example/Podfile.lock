@@ -1,0 +1,33 @@
+PODS:
+  - JResponderChain (0.1.0):
+    - RxCocoa (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - JResponderChain (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+EXTERNAL SOURCES:
+  JResponderChain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JResponderChain: db815ef750b62c00c610c17e75b2b6982ddecbb8
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: 126fdbb4f2c7fa59fe74eeb8f723d5480ea90805
+
+COCOAPODS: 1.11.2

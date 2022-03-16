@@ -36,7 +36,8 @@ TODO: Add long description of the pod here.
 
  # s.subspec "SubName" do |ss|
  #   ss.source_files = ["JResponderChain/Classes/SubName/**/*"]
- #   ss.dependency 'AFNetworking', '~> 2.3'
+ s.dependency 'RxSwift', '6.5.0'
+ s.dependency 'RxCocoa', '6.5.0'
  # end
 
 end

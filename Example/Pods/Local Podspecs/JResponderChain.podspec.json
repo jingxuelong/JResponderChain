@@ -1,0 +1,32 @@
+{
+  "name": "JResponderChain",
+  "version": "0.1.0",
+  "summary": "必须填写JResponderChain的说明.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jingxuelong/JResponderChain",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jingxuelong": "jingxuelong0037@126.com"
+  },
+  "source": {
+    "git": "https://github.com/jingxuelong/JResponderChain.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "JResponderChain/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "6.5.0"
+    ],
+    "RxCocoa": [
+      "6.5.0"
+    ]
+  },
+  "swift_version": "5.0"
+}

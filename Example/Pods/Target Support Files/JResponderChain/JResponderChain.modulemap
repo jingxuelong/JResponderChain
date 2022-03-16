@@ -1,0 +1,6 @@
+framework module JResponderChain {
+  umbrella header "JResponderChain-umbrella.h"
+
+  export *
+  module * { export * }
+}
